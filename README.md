@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pgbercik
 - 👀 I’m interested in programming Java web apps which use Spring Boot as  back-end and for example Vaadin Flow 14 as front-end. I'm also interestesed in creating projects based on Arduino and Raspberry Pi.
-- 🌱 I’m currently improving my knowledge of REST in Java.
 - 📫 How to reach me: pgbercik@gmail.com
 
 <!---
